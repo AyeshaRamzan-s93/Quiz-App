@@ -21,6 +21,10 @@ Click the Start Quiz button to begin.
 Answer Questions
 Choose your answer before the timer runs out (e.g., 10 seconds). If you don't answer in time, the correct answer is automatically highlighted.
 
+## Live Demo
+
+https://ayesharamzan-s93.github.io/Quiz-App/
+
 Next Question
 After each question, click the Next button to proceed.
 
